@@ -1,5 +1,8 @@
 import hashlib
 
+# you can use "import Hash" and use this hashFunction
+# you can impelement a different hashFunction by yourself but I suggest this function.
+
 def hashFunction(password):
     # Encode the password as bytes
     password_bytes = password.encode('utf-8')
@@ -16,4 +19,5 @@ def hashFunction(password):
     return hashed_password
 
 
-print(hashlib.sha256(('hi'.encode())).hexdigest())
+# Example of usage
+# print(hashlib.sha256(('hi'.encode())).hexdigest())
