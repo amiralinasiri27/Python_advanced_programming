@@ -1,0 +1,10 @@
+1) How Many Countries are in The World? :
+195
+2) What is The Largest Country in The World? :
+russia
+3) What is the Largest island in the world? :
+greenland
+4) What is The name of Paris river? :
+sen
+5) How many states does the United States consist of? :
+500
