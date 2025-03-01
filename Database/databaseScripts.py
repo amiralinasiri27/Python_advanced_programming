@@ -3,7 +3,7 @@ import mysql.connector
 hopedb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="1383710an",
+    password="yourpassword",
     database="hopedatacenter"
 )
 
